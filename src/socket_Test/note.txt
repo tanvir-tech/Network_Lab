@@ -1,4 +1,10 @@
-echo_server.py --port 9900
+Procedure to run echo-server-client:
+
+    step-01:
+        python echo_server.py --port 9900
+
+    step-02:
+        python echo_client.py --port 9900
 
 
 
