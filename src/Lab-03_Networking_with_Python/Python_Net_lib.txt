@@ -1,0 +1,23 @@
+Python networking library
+-------------------------------------------------------------
+pip install ntplib
+pip install diesel
+pip install python-nmap
+pip install scapy
+pip install netifaces
+pip install netaddr
+pip install pyOpenSSL
+pip install PyYAML
+pip install requests
+pip install feedparser
+pip install paramiko
+pip install fabric
+pip install supervisor
+pip install construct
+pip install bottlenose
+pip install SOAPpy
+pip install pyserial
+--------------------------
+pygocoder
+xmlrpclib
+------------------------------------------------------------
